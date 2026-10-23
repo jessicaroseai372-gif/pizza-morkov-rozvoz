@@ -1,0 +1,6 @@
+Pizza Mořkov Rozvoz — zdrojový projekt Android APK.
+Projekt nahraj do GitHub repozitáře (včetně skryté složky .github).
+GitHub Actions > Vytvorit Android APK > Run workflow.
+Po dokončení stáhni artifact Pizza-Morkov-Rozvoz-APK.
+Jde o testovací debug APK. Pro veřejné aktualizace je potřeba trvalý podpisový klíč a release build.
+Pro iPhone použij samostatný ZIP webové verze a nahraj ho na Netlify.
